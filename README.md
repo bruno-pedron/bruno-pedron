@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2024<br>📚 I'm currently learning Python<br>🎯 Looking for an internship opportunity<br>🎲 Fun fact: Passionate about sports</p>
+<p align="left">✨ Coding since 2024<br>📚 I'm currently learning Python<br>🎲 Fun fact: Passionate about sports</p>
 
 ###
 
