@@ -30,7 +30,6 @@
 
 <!-- GitHub Logo -->
 <br>
-<br>
 <img align="right" alt="tux-typing-gif" src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="150px" />
 <div>A student of Technology in Systems Analysis and Development at the Federal University of Paraná (UFPR), currently working as an AWS and DevSecOps Intern at Compass UOL. My internship study track covers agile methodologies, Linux, AWS, Docker, Kubernetes and CI/CD. With advanced proficiency in English (IELTS 7.0/C1), I am actively seeking opportunities to apply and expand my knowledge in cloud computing and DevOps to solve challenges and contribute to innovative projects.</div>
 
