@@ -7,25 +7,25 @@
   <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/bruno-pedron-rupaner-411a782b7/" style="text-decoration: none;">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" 
-         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue" 
+         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=grey" 
          style="height: 27px;" /></a>
 
-  <!-- Gmail Badge -->
-  <a href="mailto:brunorupaner09@gmail.com" style="text-decoration: none;">
-    <img alt="Gmail" title="Send me an email" 
-         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=blue" 
+  <!-- Resume Badge -->
+  <a href="https://www.dropbox.com/scl/fi/6dwfekile7ukw88p0xeom/Curr-culo.pdf?rlkey=yf9qvt4zwqjpy2s3iz24b91ax&st=quz9me5y&dl=0" style="text-decoration: none;">
+    <img alt="Currículo" title="Currículo" 
+         src="https://custom-icon-badges.demolab.com/badge/Currículo🇧🇷/resume🇺🇸-24.svg?style=for-the-badge&logo=paperclip-24&logoColor=white&labelColor=blue&color=grey" 
          style="height: 27px;" /></a>
 
   <!-- GitHub Repositories Badge -->
   <a href="https://github.com/bruno-pedron?tab=repositories" style="text-decoration: none;">
     <img alt="Repositories" title="See my repositories on GitHub" 
-         src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=blue" 
+         src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=blue&color=grey" 
          style="height: 27px;" /></a>
 
  <!-- Starred Repositories Badge -->
   <a href="https://github.com/bruno-pedron?tab=stars" style="text-decoration: none;">
     <img alt="Starred Repositories" title="Repositories I've Starred" 
-         src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=blue" 
+         src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=blue&color=grey" 
          style="height: 27px;" /></a>
 
 <!-- GitHub Logo -->
