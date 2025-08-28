@@ -11,12 +11,6 @@
          src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=grey" 
          style="height: 27px;" /></a>
 
-  <!-- Resume Badge -->
-  <a href="https://www.dropbox.com/scl/fi/6dwfekile7ukw88p0xeom/Curr-culo.pdf?rlkey=yf9qvt4zwqjpy2s3iz24b91ax&st=quz9me5y&dl=0" style="text-decoration: none;">
-    <img alt="Currículo" title="Currículo" 
-         src="https://custom-icon-badges.demolab.com/badge/Currículo🇧🇷/resume🇺🇸-24.svg?style=for-the-badge&logo=paperclip-24&logoColor=white&labelColor=blue&color=grey" 
-         style="height: 27px;" /></a>
-
   <!-- GitHub Repositories Badge -->
   <a href="https://github.com/bruno-pedron?tab=repositories" style="text-decoration: none;">
     <img alt="Repositories" title="See my repositories on GitHub" 
